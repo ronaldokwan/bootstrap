@@ -1,0 +1,6 @@
+h1 {
+  background-image: linear-gradient(to right, #f53803 0%, #f5d020 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
